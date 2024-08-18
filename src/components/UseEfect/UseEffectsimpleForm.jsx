@@ -48,6 +48,10 @@ updateName() */ //mala practica da un ciclo infinito
 
   return (
 
+   
+    
+    
+
 
   <form className="bg-slate-300 p-4 w-80 my-5 rounded-md shadow-lg">
     <h1 className="text-white  uppercase font-bold my-5">Formulario simple</h1>
@@ -83,23 +87,25 @@ updateName() */ //mala practica da un ciclo infinito
     </div>
 
    
-  {/*   {
-        email === 'wilmer' && 'monta algo'
-    } */}
-   
-  </form>
+    
 
-
-
-
-
-   
-
-
-
-
-
-  )
+    </form>
+   )
 }
+
+   
+  
+
+
+
+
+
+   
+
+
+
+
+
+
 
 export default UseEffectsimpleForm
